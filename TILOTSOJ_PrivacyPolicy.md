@@ -1,4 +1,7 @@
-## TILOTSOJ (The Immortal Life of the Son of Jay) - privacy policy
+---
+title: TILOTSOJ (The Immortal Life of the Son of Jay) - privacy policy
+---
+
 ### Author
 The game stores game progress and settings locally on your device.
 

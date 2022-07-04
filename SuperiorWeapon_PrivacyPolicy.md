@@ -1,4 +1,7 @@
-## Superior Weapon (privacy policy)
+---
+title: Superior Weapon (privacy policy)
+---
+
 ### Author
 The game stores game progress and settings locally on your device.
 

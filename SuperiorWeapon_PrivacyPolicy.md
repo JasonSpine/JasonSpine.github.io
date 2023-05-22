@@ -30,4 +30,4 @@ Players's activity sharing depends Game Center policy and settings.
 #### In-App Purchases
 When you buy a product in the game, the transaction is handled by verified and secure payment provider. The developer has no access to any data you provide during the payment.  
 
-![Superior Weapon icon](/AppIcon.png)
+![Superior Weapon icon](/SWeapon_AppIcon.png)

@@ -11,17 +11,17 @@ title: Portfolio
 ---
     
 <h1 style="text-align: center;">Word Finder</h1>
-<div style="text-align: center;">
-	[GitHub repository](https://github.com/JasonSpine/WordFinder)
-</div>
+<a href="https://github.com/JasonSpine/WordFinder" style="text-align: center;">
+	GitHub repository
+</a>
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JasonSpine/WordFinder/raw/main/README_files/AppScreenshot.png" alt="Word Finder screenshot"/>
 
 ---
 
 <h1 style="text-align: center;">Drop Batch</h1>
-<div style="text-align: center;">
-	[GitHub repository](https://github.com/JasonSpine/DropBatch)
-</div>
+<a href="https://github.com/JasonSpine/DropBatch" style="text-align: center;">
+	GitHub repository
+</a>
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JasonSpine/DropBatch/raw/main/README_files/AppGif.gif" alt="Drop Batch gif"/>
 
 ---

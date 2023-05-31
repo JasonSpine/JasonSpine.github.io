@@ -2,7 +2,7 @@
 title: Portfolio
 ---
 
-# Samurai Shield
+<h1 style="text-align: center;">Samurai Shield</h1>
 
 <div style="text-align: center;">
 ![Samurai Shield icon](/SShield_AppIcon.png)   

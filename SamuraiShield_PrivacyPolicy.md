@@ -18,4 +18,4 @@ The game uses **Google Play Services** to store player's scores.
 Players's activity is shared to other players only if player allows it in Play Games settings.
 
 
-![Samurai Shield icon](/SShield_AppIcon.png)
+![Samurai Shield icon](/images/SShield_AppIcon.png)

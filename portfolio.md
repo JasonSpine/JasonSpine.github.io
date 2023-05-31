@@ -9,10 +9,16 @@ title: Portfolio
            margin-left: auto;
            margin-right: auto;"
     src="/images/SShield_AppIcon.png" 
-    alt="Samurai Shield icon">
-</img>
+    alt="Samurai Shield icon"/>
 
-[![Samurai Shield Google Play Button](/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.GDMA.SamuraiShield)   
+<a href="https://play.google.com/store/apps/details?id=com.GDMA.SamuraiShield">
+	<img 
+		style="display: block; 
+			   margin-left: auto;
+			   margin-right: auto;"
+		src="/images/google-play-badge.png" 
+		alt="Samurai Shield Google Play Button"/>
+</a>
 
 
 ---

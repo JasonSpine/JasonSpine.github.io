@@ -31,4 +31,4 @@ Game development require no financial support.
 
 I want a publisher to help this game reach the players.  
   
-<a href="#" data-src="[["images/SuperiorWeapon_PitchDeck_Screenshot01.png", ""], ["images/SuperiorWeapon_PitchDeck_Screenshot02.png", ""]]" onclick="openImageBrowser(event, 0)" class="gallery-loadImages">SCREENSHOTS</a>
+<a href='#' data-src='[["images/SuperiorWeapon_PitchDeck_Screenshot01.png", ""], ["images/SuperiorWeapon_PitchDeck_Screenshot02.png", ""]]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>SCREENSHOTS</a>

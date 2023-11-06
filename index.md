@@ -1,6 +1,4 @@
 ---
-title: Game Developer
+title: Game Developer Marek Adamczyk
 ---
 
-## [Portfolio](portfolio.md)
-## [About](about.md)

@@ -1,4 +1,10 @@
-theme: jekyll-theme-cayman
+remote_theme: JasonSpine/jekyll-cayman-JasonSpine
 author: Marek Adamczyk ([jasonspine@gmail.com](mailto:jasonspine@gmail.com))
+title: "GDMA"
+logo: /images/layout/logo.png
+show_downloads: false
+description: " "
+lang: pl-PL
+menu_links: MenuLinks.html
 github:
   is_project_page: false

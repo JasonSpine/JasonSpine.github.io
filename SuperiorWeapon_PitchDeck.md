@@ -29,8 +29,6 @@ Game development require no financial support.
 
 ### What I want from a publisher
 
-I want a publisher to help this game reach the players.
-
-#### Screenshots
-![SuperiorWeapon Screenshot 01](images/SuperiorWeapon_PitchDeck_Screenshot01.png)  
-![SuperiorWeapon Screenshot 02](images/SuperiorWeapon_PitchDeck_Screenshot02.png)  
+I want a publisher to help this game reach the players.  
+  
+<a href="#" data-src="[["images/SuperiorWeapon_PitchDeck_Screenshot01.png", ""], ["images/SuperiorWeapon_PitchDeck_Screenshot02.png", ""]]" onclick="openImageBrowser(event, 0)" class="gallery-loadImages">SCREENSHOTS</a>

@@ -16,11 +16,11 @@ Detailed presentation: [PDF](docs/SuperiorWeapon-HumbleGamesSubmission-PitchTemp
 
 ### Link to a demo
 
-[https://drive.google.com/u/0/uc?id=1K_-WddBYCmRvNnHK3i2LM67UIBLP-YFl&export=download](https://drive.google.com/u/0/uc?id=1K_-WddBYCmRvNnHK3i2LM67UIBLP-YFl&export=download)  
+[https://drive.google.com/u/0/uc?id=1gj5c8rlrt1YHPKtuQXLsqp8CeFkK6PFP&export=download](https://drive.google.com/u/0/uc?id=1gj5c8rlrt1YHPKtuQXLsqp8CeFkK6PFP&export=download)  
 
 ### Preview video
 
-[https://youtu.be/aFB-VbtLsTY](https://youtu.be/aFB-VbtLsTY)  
+[https://youtu.be/qqRO5E2jnxA](https://youtu.be/qqRO5E2jnxA)  
 
 ### Financial roadmap
 
